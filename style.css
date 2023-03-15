@@ -1,0 +1,30 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  gap:25px;
+  
+}
+
+.popbtn {
+ width: 100px;
+ height: 25px;
+}
+
+.delbtn {
+  width: 50px;
+  height: 15px;
+}
+
+form {
+  width: 600px;
+  height: 200px;
+  background-color: darkgrey;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+ 
+
+}
